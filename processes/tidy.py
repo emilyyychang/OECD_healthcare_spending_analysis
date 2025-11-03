@@ -1,6 +1,4 @@
 """
-Tidying: import the tidy function from this file. Do not put dataset code in here.
-
 Steps:
  - drop any years that aren't in the range 2000 to 2019
  - make sure all column names are lowercase and words are separated by underscores rather than spaces
